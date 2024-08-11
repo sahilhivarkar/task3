@@ -1,0 +1,12 @@
+TASK: Creating and Using a Simple Keylogger:
+
+Legal and Ethical Implications:
+
+Legal Boundaries: Emphasize that using keyloggers without permission is illegal.
+Ethical Use: Keyloggers should only be used for educational purposes in controlled environments.
+
+
+Potential Defenses Against Keyloggers:
+
+Use Anti-Malware Software: Regularly scan systems for malicious software.
+Utilize Virtual Keyboards: Virtual keyboards can prevent keyloggers from capturing keystrokes.
